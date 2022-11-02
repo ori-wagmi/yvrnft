@@ -2,8 +2,6 @@
 
 This project is an implementation of an ONFT. It has been deployed to Goleri and ArbGoleri.
 
-`!!!This currently doesn't work because LZ issue. Following up with LZ to investigate!!!`
-
 ## Contract Addresses
 Goleri:
 - CarNFT : 0x535e56a6179478d21Ab4b2891968f28Ab114A158
